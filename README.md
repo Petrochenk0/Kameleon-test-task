@@ -78,8 +78,7 @@ npm start
 ## 📁 Структура проекта | Project Structure
 
 ```
-kameleon-testing/
-├── frontend/                # React приложение
+kameleon-dashboard/                # React приложение
 │   ├── src/
 │   │   ├── components/     # React компоненты
 │   │   ├── pages/         # Компоненты страниц
@@ -88,7 +87,7 @@ kameleon-testing/
 │   │   └── utils/         # Вспомогательные функции
 │   └── package.json
 │
-└── backend/                # API сервер
+frontend-interview-task-api/                # API сервер
     ├── db.json            # JSON база данных
     └── package.json
 ```
