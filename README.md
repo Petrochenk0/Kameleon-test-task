@@ -38,21 +38,20 @@ Frontend developer test task: dashboard for displaying and managing A/B tests.
 1. Клонируйте репозиторий | Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd kameleon-testing
+git clone https://github.com/Petrochenk0/Kameleon-test-task.git
 ```
 
 2. Установите зависимости для фронтенда | Install frontend dependencies:
 
 ```bash
-cd frontend
+cd kameleon-dashboard
 npm install
 ```
 
 3. Установите зависимости для бэкенда | Install backend dependencies:
 
 ```bash
-cd ../backend
+cd ../frontend-interview-task-api
 npm install
 ```
 
@@ -61,7 +60,7 @@ npm install
 1. Запустите API сервер | Start the API server:
 
 ```bash
-cd backend
+cd frontend-interview-task-api
 npm start
 ```
 
@@ -70,7 +69,7 @@ npm start
 2. В новом терминале запустите фронтенд | In a new terminal, start the frontend:
 
 ```bash
-cd frontend
+cd kameleon-dashboard
 npm start
 ```
 
@@ -124,7 +123,7 @@ kameleon-testing/
 
 ## 👨‍💻 Автор | Author
 
-[Ваше имя | Your Name]
+Nikita Petrochenko
 
 ## 📄 Лицензия | License
 
