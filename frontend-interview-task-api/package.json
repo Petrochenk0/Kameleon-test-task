@@ -1,0 +1,13 @@
+{
+  "name": "frontend-interview-task-api",
+  "version": "1.0.0",
+  "description": "API for the interview task for frontend developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -c ./config.json -w ./db.json"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
