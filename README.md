@@ -123,7 +123,3 @@ frontend-interview-task-api/                # API сервер
 ## 👨‍💻 Автор | Author
 
 Nikita Petrochenko
-
-## 📄 Лицензия | License
-
-MIT
